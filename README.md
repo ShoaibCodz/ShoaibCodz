@@ -23,7 +23,7 @@ I'm **Shoaib Aslam**, a **Flutter developer** with a passion for creating sleek 
   <a href="https://instagram.com/shoaib.graphix/" target="_blank">
     <img src="https://github.com/user-attachments/assets/3e1066a5-35cc-4ce4-9035-6fc457c7e4c9"  height="50" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/c/http://www.youtube.com/@shoaib.graphix7962/" target="_blank">
+  <a href="https://www.youtube.com/@shoaib.graphix7962" target="_blank">
     <img src="https://github.com/user-attachments/assets/191ecd5f-d6c5-4348-ab46-23f9ccd41fb8" height="50" alt="youtube logo"  />
   </a>
   <a href="https://www.linkedin.com/in/shoaib-aslam32922/" target="_blank">
